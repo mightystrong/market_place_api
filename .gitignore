@@ -20,3 +20,9 @@
 /.powenv
 /.powrc
 /.rvmrc
+
+# Extra files to ignore
+doc/
+*.swp
+*~
+.DS_Store
